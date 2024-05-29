@@ -42,3 +42,10 @@ for gpu in gpus:
             ),
         )
     )
+
+
+# Exception has occurred: ModuleNotFoundError
+# No module named 'distutils'
+# File "C:\Users\ottob\Documents\python\gpuInfo\gpuInfoUpdated.py", line 1, in <module>
+# import GPUtil
+# ModuleNotFoundError: No module named 'distutils'
